@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarvenCesar
 - 👀 I’m interested in becoming a software developer
-- 🌱 I’m currently learning c++ & Full stack 
+- 🌱 Mian Focus is to improve upon HTML, Javascript, CSS, and Firebase
 - 💞️ I’m looking to collaborate with anyone that can help me become a better developer
 - 📫 How to reach me cesarmarven@gmail.com
 - I also love lifting heavy weights...
